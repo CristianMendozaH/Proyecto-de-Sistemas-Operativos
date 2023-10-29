@@ -1,0 +1,112 @@
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\Proyectodesustemas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\Proyectodesustemas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\Proyectodesustemas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\FontAwesome.Sharp.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.Concurrencia.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.Info.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.Inicio.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.Interbloqueo.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Proyectodesustemas\obj\Release\Proyectodesustemas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\Proyectodesustemas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\Proyectodesustemas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\Proyectodesustemas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\FontAwesome.Sharp.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.Concurrencia.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.Info.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.Inicio.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.Interbloqueo.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.MenuP.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.Creador.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.Confirmacion.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.RedesActivas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Proyectodesustemas\obj\Release\Proyectodesustemas.ProcesosActivos.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\Proyectodesustemas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\Proyectodesustemas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\Proyectodesustemas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\FontAwesome.Sharp.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Concurrencia.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Confirmacion.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Creador.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Info.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Inicio.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Interbloqueo.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.MenuP.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.ProcesosActivos.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.RedesActivas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Proyectodesustemas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Proyectodesustemas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Proyectodesustemas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\FontAwesome.Sharp.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\System.CodeDom.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\System.CodeDom.xml
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Concurrencia.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Creador.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Info.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Inicio.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Interbloqueo.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.MenuP.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.RedesActivas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Reportes.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.VersionW.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Procesoss.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.ProgramasXD.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Hardware.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Spire.Pdf.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Spire.PdfViewer.Asp.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Spire.PdfViewer.Forms.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Microsoft.mshtml.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Spire.Pdf.xml
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Spire.PdfViewer.Asp.xml
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\bin\Release\Spire.PdfViewer.Forms.xml
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Proyectodesustemas\obj\Release\Proyectodesustemas.Manual.resources

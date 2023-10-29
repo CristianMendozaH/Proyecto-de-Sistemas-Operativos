@@ -1,0 +1,14 @@
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Debug\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Debug\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Debug\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Debug\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Debug\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Debug\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Debug\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Debug\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Debug\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Debug\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Debug\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Debug\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Debug\Tareas.csproj.CopyComplete

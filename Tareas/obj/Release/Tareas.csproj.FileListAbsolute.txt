@@ -1,0 +1,56 @@
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.pdb
